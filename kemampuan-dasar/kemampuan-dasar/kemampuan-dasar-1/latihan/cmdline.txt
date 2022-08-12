@@ -1,0 +1,20 @@
+-ipconfig
+-dxdiag
+-call
+-cls
+-chdir
+-color
+-comp
+-convert
+-copy
+-date
+-del
+-dir
+-driverquery
+-edit
+-exit
+-expand
+-msg
+-pause
+-rename
+-shutdown /s
